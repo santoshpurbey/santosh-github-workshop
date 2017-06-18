@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>NCE GIT/GITHUB </title>
+<body>
+
+<p>this is git and github workshop happening at NCE satdobato. </p>
+
+</body>
+</head>
+</html>
